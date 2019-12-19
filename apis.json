@@ -1,0 +1,51 @@
+{
+    "name": "Papa Parse",
+    "description": "I code stuff with my bare hands. Masters student. Gopher. Mormon. Farmboy. Space science! Not a conjurer of cheap tricks. https:\/\/t.co\/Uax2sp17vM \/ @finerpixels",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/11282-papa-parse.jpg",
+    "tags": [
+        "csv",
+        "excel",
+        "have api",
+        "parsing",
+        "spreadsheets"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/papa-parse\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Papa Parse",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/11282-papa-parse.jpg",
+            "humanURL": "http:\/\/papaparse.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/papa-parse-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/papa-parse"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/mholt\/PapaParse"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/mholt6"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/papaparse.com\/"
+        }
+    ]
+}
